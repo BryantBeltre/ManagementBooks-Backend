@@ -13,3 +13,4 @@ C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Domain.pdb
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.csproj.AssemblyReference.cache
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiMa.D534996F.Up2Date
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.sourcelink.json

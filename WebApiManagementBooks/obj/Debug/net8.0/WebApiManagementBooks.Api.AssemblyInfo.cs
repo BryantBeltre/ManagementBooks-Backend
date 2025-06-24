@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebApiManagementBooks.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea34e888e3266e3435d94260a2917ed2925b6a13")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebApiManagementBooks.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebApiManagementBooks.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

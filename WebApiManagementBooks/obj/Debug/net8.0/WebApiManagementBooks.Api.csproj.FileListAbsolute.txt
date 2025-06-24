@@ -41,3 +41,4 @@ C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks\bin\Debug\net8.0\WebApiManagementBooks.Application.pdb
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks\bin\Debug\net8.0\WebApiManagementBooks.Infrastructure.pdb
 C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks\bin\Debug\net8.0\WebApiManagementBooks.Domain.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks\obj\Debug\net8.0\WebApiManagementBooks.Api.sourcelink.json
