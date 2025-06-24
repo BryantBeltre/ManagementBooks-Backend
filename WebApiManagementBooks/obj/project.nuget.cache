@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "QDTi4UZCuak=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SnS\\OneDrive - Servicio Nacional de Salud\\Documentos\\PruebaTecnicaClaro\\Backend\\WebApiManagementBooks\\WebApiManagementBooks\\WebApiManagementBooks.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SnS\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.binder.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.http\\8.0.0-rc.2.23479.6\\microsoft.extensions.http.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-rc.2.23479.6\\microsoft.extensions.options.configurationextensions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0-rc.2.23479.6\\system.diagnostics.diagnosticsource.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

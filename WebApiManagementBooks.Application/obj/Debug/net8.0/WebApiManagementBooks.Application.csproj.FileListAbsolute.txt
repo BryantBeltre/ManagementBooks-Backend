@@ -1,0 +1,15 @@
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Application.deps.json
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Application.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Application.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.AssemblyInfoInputs.cache
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.AssemblyInfo.cs
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.csproj.CoreCompileInputs.cache
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\refint\WebApiManagementBooks.Application.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\ref\WebApiManagementBooks.Application.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Domain.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\bin\Debug\net8.0\WebApiManagementBooks.Domain.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiManagementBooks.Application.csproj.AssemblyReference.cache
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Application\obj\Debug\net8.0\WebApiMa.D534996F.Up2Date

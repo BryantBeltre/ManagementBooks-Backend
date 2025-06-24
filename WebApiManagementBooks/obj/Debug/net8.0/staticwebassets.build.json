@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SoQeFldlDt84/tFhfPGXpsab3xw+2smVpN6lKV20O+k=",
+  "Source": "WebApiManagementBooks.Api",
+  "BasePath": "_content/WebApiManagementBooks.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

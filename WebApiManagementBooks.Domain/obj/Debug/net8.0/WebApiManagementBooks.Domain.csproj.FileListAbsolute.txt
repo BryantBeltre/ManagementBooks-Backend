@@ -1,0 +1,11 @@
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\bin\Debug\net8.0\WebApiManagementBooks.Domain.deps.json
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\bin\Debug\net8.0\WebApiManagementBooks.Domain.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\bin\Debug\net8.0\WebApiManagementBooks.Domain.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.AssemblyInfoInputs.cache
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.AssemblyInfo.cs
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\refint\WebApiManagementBooks.Domain.dll
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\WebApiManagementBooks.Domain.pdb
+C:\Users\SnS\OneDrive - Servicio Nacional de Salud\Documentos\PruebaTecnicaClaro\Backend\WebApiManagementBooks\WebApiManagementBooks.Domain\obj\Debug\net8.0\ref\WebApiManagementBooks.Domain.dll

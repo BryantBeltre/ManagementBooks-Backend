@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "uehxMp6vhnY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SnS\\OneDrive - Servicio Nacional de Salud\\Documentos\\PruebaTecnicaClaro\\Backend\\WebApiManagementBooks\\WebApiManagementBooks.Infrastructure\\WebApiManagementBooks.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0-rc.2.23479.6\\microsoft.extensions.configuration.binder.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.diagnostics.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.http\\8.0.0-rc.2.23479.6\\microsoft.extensions.http.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-rc.2.23479.6\\microsoft.extensions.logging.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-rc.2.23479.6\\microsoft.extensions.options.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0-rc.2.23479.6\\microsoft.extensions.options.configurationextensions.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-rc.2.23479.6\\microsoft.extensions.primitives.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0-rc.2.23479.6\\system.diagnostics.diagnosticsource.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

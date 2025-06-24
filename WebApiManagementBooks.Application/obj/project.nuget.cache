@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LBILwzQTFI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SnS\\OneDrive - Servicio Nacional de Salud\\Documentos\\PruebaTecnicaClaro\\Backend\\WebApiManagementBooks\\WebApiManagementBooks.Application\\WebApiManagementBooks.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SnS\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\SnS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
